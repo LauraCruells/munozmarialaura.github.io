@@ -1,5 +1,3 @@
-# munozmarialaura.github.io
-CV Proyecto Final | Muñoz Maria Laura
 <!DOCTYPE html>
 <html lang="es">
 <head>
